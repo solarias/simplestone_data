@@ -1,0 +1,31 @@
+{
+    "DB":{
+        "dbVersion":"20190604",
+        "jsonVersion":"31532",
+        "date":"2019.06.04."
+    },
+    "SET_LATEST":"DALARAN",
+    "SET":{
+        "CORE":{"KR":"기본카드","FORMAT":"정규"},
+        "EXPERT1":{"KR":"오리지널","FORMAT":"정규"},
+        "HOF":{"KR":"명예의 전당","FORMAT":"야생"},
+        "NAXX":{"KR":"낙스라마스의 저주","FORMAT":"야생","YEAR":2014,"RELEASECOUNT":1},
+        "GVG":{"KR":"고블린 대 노움","FORMAT":"야생","YEAR":2014,"RELEASECOUNT":2},
+        "BRM":{"KR":"검은바위 산","FORMAT":"야생","YEAR":2015,"RELEASECOUNT":1},
+        "TGT":{"KR":"대 마상시합","FORMAT":"야생","YEAR":2015,"RELEASECOUNT":2},
+        "LOE":{"KR":"탐험가 연맹","FORMAT":"야생","YEAR":2015,"RELEASECOUNT":3},
+        "OG":{"KR":"고대신의 속삭임","FORMAT":"야생","YEAR":2016,"RELEASECOUNT":1},
+        "KARA":{"KR":"한여름 밤의 카라잔","FORMAT":"야생","YEAR":2016,"RELEASECOUNT":2},
+        "GANGS":{"KR":"비열한 거리의 가젯잔","FORMAT":"야생","YEAR":2016,"RELEASECOUNT":3},
+        "UNGORO":{"KR":"운고로를 향한 여정","FORMAT":"정규","YEAR":2017,"RELEASECOUNT":1},
+        "ICECROWN":{"KR":"얼어붙은 왕좌의 기사들","FORMAT":"정규","YEAR":2017,"RELEASECOUNT":2},
+        "LOOTAPALOOZA":{"KR":"코볼트와 지하 미궁","FORMAT":"정규","YEAR":2017,"RELEASECOUNT":3},
+        "GILNEAS":{"KR":"마녀숲","FORMAT":"정규","YEAR":2018,"RELEASECOUNT":1},
+        "BOOMSDAY":{"KR":"박사 붐의 폭심만만 프로젝트","FORMAT":"정규","YEAR":2018,"RELEASECOUNT":2},
+        "TROLL":{"KR":"라스타칸의 대난투","FORMAT":"정규","YEAR":2018,"RELEASECOUNT":3}
+    },
+    "CONFIG":{
+        "APIURL":"https://api.hearthstonejson.com/v1/latest/koKR/cards.collectible.json",
+        "RELEASE_PER_YEAR":3
+    }
+}
