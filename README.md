@@ -1,2 +1,2 @@
-# Simplestone_data
-Simplestone_data
+# Simplestone Data Repository
+Simplestone Data Repository
